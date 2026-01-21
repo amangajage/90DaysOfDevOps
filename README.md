@@ -1,2 +1,2 @@
-# 90DaysOfDevOps
+# Linux Basics
 Linux Basics
